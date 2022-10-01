@@ -1,3 +1,6 @@
 login
 username
 password
+age
+long
+short
